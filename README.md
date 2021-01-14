@@ -1,7 +1,7 @@
 # x-citizen
 
-##Save ourselves
+## Save ourselves
 
-##Help each other
+## Help each other
 
-##Rebuild our homeland
+## Rebuild our homeland
