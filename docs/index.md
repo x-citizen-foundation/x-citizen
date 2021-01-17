@@ -21,10 +21,11 @@ Syntax highlighted code block
 ```
 
 For more details
-[editor on GitHub](https://github.com/x-citizen-foundation/x-citizen/edit/main/docs/index.md)
-[Jekyll](https://jekyllrb.com/)
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-[repository settings](https://github.com/x-citizen-foundation/x-citizen/settings)
-`_config.yml` 
-[documentation](https://docs.github.com/categories/github-pages-basics/)
+
+[editor on GitHub](https://github.com/x-citizen-foundation/x-citizen/edit/main/docs/index.md)  
+[Jekyll](https://jekyllrb.com/)  
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)  
+[repository settings](https://github.com/x-citizen-foundation/x-citizen/settings)  
+`_config.yml`   
+[documentation](https://docs.github.com/categories/github-pages-basics/)  
 [contact support](https://support.github.com/contact)
